@@ -2598,43 +2598,43 @@ Press a key to assign it to this action.</string>
 
 
     <string name="draft_discord_statue02_title">Discord 20k</string>
-    <string name="draft_discord_statue02_text">A new statue to celebrate our 20k members Discord anniversary. For this anniversary we held up a scavenger hunt which was completed first by our glorious member KolaKattz</string>
-    <string name="settings_drawpedestrians">Pedestrians</string>
-    <string name="draft_pedestrian_road00_title">Pavement</string>
-    <string name="draft_pedestrian_road00_text">A simple pavement to connect close buildings for pedestrians.</string>
-    <string name="draft_deco_chr_manger00_title">Wooden manger</string>
-    <string name="draft_deco_chr_manger00_text">An oversized open box from which horses, cows, and other animals feed.</string>
-    <string name="settings_diagonalroadtool">Build road diagonally if supported</string>
-    <string name="settings_smoothzoom">Smooth zoom</string>
-    <string name="settings_smoothzoom_off">Off</string>
-    <string name="settings_smoothzoom_nearest">Blocky</string>
-    <string name="settings_smoothzoom_linear">Blurry</string>
-    <string name="settings_smoothzoom_fast">Fast</string>
-    <string name="settings_regionoriginbackup">Option to reset cities in newly generated regions</string>
-    <string name="settings_translateplugins">Translate plugins</string>
-    <string name="stage_region_greeter_welcome">Welcome to</string>
-    <string name="stage_region_greeter_madewith">A game made with</string>
+    <string name="draft_discord_statue02_text">Sebuah patung baharu untuk menyambut sambutan ahli Discord 20k kami. Untuk sambutan ini, kami telah mengadakan pencarian harta karun di mana telah diselesaikan oleh ahli termulia KolaKattz</string>
+    <string name="settings_drawpedestrians">Pejalan kaki</string>
+    <string name="draft_pedestrian_road00_title">Laluan pejalan kaki</string>
+    <string name="draft_pedestrian_road00_text">Sebuah laluan pejalan kaki untuk menyambungkan bangunan terdekat untuk pejalan kaki.</string>
+    <string name="draft_deco_chr_manger00_title">Palung berkayu</string>
+    <string name="draft_deco_chr_manger00_text">Sebuah kotak tempat makan kuda, lembu, dan binatang lain.</string>
+    <string name="settings_diagonalroadtool">Bina jalan pepenjuru jika disokong</string>
+    <string name="settings_smoothzoom">Zum licin</string>
+    <string name="settings_smoothzoom_off">Tutup</string>
+    <string name="settings_smoothzoom_nearest">Berbongkah</string>
+    <string name="settings_smoothzoom_linear">Kabur</string>
+    <string name="settings_smoothzoom_fast">Laju</string>
+    <string name="settings_regionoriginbackup">Pilihan untuk set semula bandar dalam wilayah dijana baharu.</string>
+    <string name="settings_translateplugins">Terjemah plugin</string>
+    <string name="stage_region_greeter_welcome">Selamat datang ke</string>
+    <string name="stage_region_greeter_madewith">Sebuah permainan dihasilkan dengan</string>
 
 
-    <string name="settings_darkbuildtool">Dark build tool</string>
-    <string name="forum_cmdforgot">Forgot?</string>
-    <string name="store_rating">Rating</string>
-    <string name="store_rating_unrated">NOT RATED</string>
-    <string name="store_rating_verynegative">VERY NEGATIVE</string>
-    <string name="store_rating_negative">NEGATIVE</string>
-    <string name="store_rating_mixed">MIXED</string>
-    <string name="store_rating_positive">POSITIVE</string>
-    <string name="store_rating_verypositive">VERY POSITIVE</string>
-    <string name="draft_draft_wst_title">Waste disposal happiness</string>
-    <string name="draft_draft_wst_text">Happiness about waste collection and disposal.</string>
-    <string name="settings_plugin_texture_cache">Plugin texture cache</string>
+    <string name="settings_darkbuildtool">Alat bina gelap</string>
+    <string name="forum_cmdforgot">Lupa?</string>
+    <string name="store_rating">Penilaian</string>
+    <string name="store_rating_unrated">TIDAK DINILAI</string>
+    <string name="store_rating_verynegative">SANGAT NEGATIF</string>
+    <string name="store_rating_negative">NEGATIF</string>
+    <string name="store_rating_mixed">PELBAGAI</string>
+    <string name="store_rating_positive">POSITIF</string>
+    <string name="store_rating_verypositive">SANGAT POSITIF</string>
+    <string name="draft_draft_wst_title">Kepuasan pelupusan sisa</string>
+    <string name="draft_draft_wst_text">Kepuasan tentang kutipan dan pelupusan sisa.</string>
+    <string name="settings_plugin_texture_cache">Cache tekstur plugin</string>
     <string name="draft_tree_spruce00_title">Spruce</string>
     <string name="draft_tree_spruce00_text">The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.</string>
-    <string name="draft_tree_alder00_title">Alder</string>
-    <string name="draft_tree_alder00_text">A tree that can grow up to 30 meters and looks quite common.</string>
-    <string name="stage_gallery_loadingimages">Loading images...</string>
-    <string name="ci_neighbor_help">Here, you can import/export energy, water, waste, and deceased bodies from/to neighboring cities.</string>
-    <string name="ci_budget_help">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
-    <string name="ci_budget_help_nomoney">Here you can view and adjust your taxes as well as view your monthly expenses. Richer habitants and workers pay more taxes. Too high taxes and your habitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 and 8.0.</string>
+    <string name="draft_tree_alder00_title">Pokok Alder</string>
+    <string name="draft_tree_alder00_text">Pokok yang tumbuh sehungga 30 meter dan nampak umum.</string>
+    <string name="stage_gallery_loadingimages">Memuatkan imej...</string>
+    <string name="ci_neighbor_help">Di sini anda boleh mengimport/mengeksport tenaga, air, sisa, dan mayat dari/ke bandar jiran.</string>
+    <string name="ci_budget_help">Di sini anda boleh lihat dan laraskan cukai anda dan lihat perbelanjaan bulanan anda. Penduduk berada dan pekerja bayar banyak cukai. Terlalu banyak cukai menyebabkan penduduk anda tidak suka dan meninggalkan bandar anda, mengakibatkan kepuasan rendah terhadap cukai. Kami mengesyorkan setkan cukai anda antara 6.5 dan 8.0.</string>
+    <string name="ci_budget_help_nomoney">Di sini anda boleh lihat dan laraskan cukai anda dan lihat perbelanjaan bulanan anda. Penduduk berada dan pekerja bayar banyak cukai. Terlalu banyak cukai menyebabkan penduduk anda tidak suka dan meninggalkan bandar anda, mengakibatkan kepuasan rendah terhadap cukai. Kami mengesyorkan setkan cukai anda antara 6.5 dan 8.0.</string>
 
 </resources>
